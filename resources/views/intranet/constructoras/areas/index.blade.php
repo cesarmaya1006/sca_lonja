@@ -37,7 +37,7 @@
                 </select>
             </div>
             <div class="col-12 col-md-3 form-group" id="caja_constructora">
-                <label for="constructora_id">Regional</label>
+                <label for="constructora_id">Regionals</label>
                 <select id="constructora_id" class="form-control form-control-sm" data_url="{{ route('empresas_areas.getAreas') }}">
                     <option value="">Elija primero Regional</option>
                 </select>
